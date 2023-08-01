@@ -82,6 +82,7 @@ button {
   font-weight: 700;
   color: white;
   background-color: #3d8168;
+  cursor: pointer;
 }
 .fa-solid {
   margin-right: 3px;
