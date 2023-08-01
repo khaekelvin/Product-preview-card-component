@@ -22,4 +22,4 @@ The challenge is to build out this product preview card component and get it loo
 ![product](https://github.com/khaekelvin/Product-preview-card-component/assets/130221570/a4fe4cdb-dcd9-4191-b581-bc810987db93)
 
 ### Mobile Design
-![mobile product](https://github.com/khaekelvin/Product-preview-card-component/assets/130221570/655801bd-72e7-41cc-8103-dd55d0b3f511)
+![last mobile](https://github.com/khaekelvin/Product-preview-card-component/assets/130221570/7341d2e6-84bd-4e57-a6b1-eb88316b45f9)
