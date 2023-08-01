@@ -120,4 +120,12 @@ button {
     line-height: 20px;
     margin-bottom: 10px;
   }
+  button {
+    padding: 15px 90px;
+    justify-content: center;
+    font-weight: 700;
+    color: white;
+    background-color: #3d8168;
+    cursor: pointer;
+  }
 }
