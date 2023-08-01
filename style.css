@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 599px;
+  height: 450px;
+  background-color: red;
+  border-radius: 10px;
+  display: flex;
+}
+
+img {
+  width: 300px;
+  height: 450px;
+  border-radius: 10px 0 0 10px;
+}
+
+section {
+  margin: 30px;
+}
+
+.per {
+  letter-spacing: 4px;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 32px;
+  line-height: 35px;
+  margin-bottom: 15px;
+}
+
+.flo {
+  font-size: 18px;
+  line-height: 20px;
+  margin-bottom: 15px;
+}
